@@ -20,7 +20,7 @@ pip install -r requirements.txt
 Now you can run the file main.ipynb
 
 
-## 🔄 Updating Dependencies (for contributors)
+## Updating Dependencies (for contributors)
 
 If you install or update packages, regenerate requirements.txt after installing a package.
 
