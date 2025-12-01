@@ -1,0 +1,327 @@
+ID_Cliente,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segmento
+1,18,11,287.77,3,4,3,343,Clientes con Potencial
+2,46,3,103.28,2,1,1,211,Clientes en Riesgo
+3,23,7,160.24,3,2,1,321,Clientes con Potencial
+4,30,7,230.16,2,2,2,222,Clientes en Riesgo
+5,20,7,164.48000000000002,3,2,1,321,Clientes con Potencial
+6,64,9,184.61,1,3,1,131,Clientes Dormidos
+7,23,8,301.91999999999996,3,2,3,323,Clientes con Potencial
+8,58,9,286.51,2,3,3,233,Clientes en Riesgo
+9,26,6,268.15,3,1,3,313,Clientes con Potencial
+10,2,6,253.23999999999998,4,1,3,413,Clientes con Potencial
+11,44,10,242.30999999999997,2,4,2,242,Clientes en Riesgo
+12,26,8,197.15,3,2,2,322,Clientes con Potencial
+13,55,8,409.95,2,2,4,224,Clientes en Riesgo
+14,17,11,332.23,3,4,4,344,Clientes con Potencial
+15,28,9,455.17999999999995,3,3,4,334,Clientes con Potencial
+16,114,2,100.2,1,1,1,111,Clientes Dormidos
+17,20,8,413.33,3,2,4,324,Clientes con Potencial
+18,23,5,193.92,3,1,2,312,Clientes con Potencial
+19,35,7,158.46,2,2,1,221,Clientes en Riesgo
+20,46,11,318.19,2,4,3,243,Clientes en Riesgo
+21,5,11,421.74,4,4,4,444,Campeones
+22,58,7,293.86,2,2,3,223,Clientes en Riesgo
+23,19,8,270.23,3,2,3,323,Clientes con Potencial
+24,34,12,391.94,2,4,4,244,Clientes en Riesgo
+25,3,12,412.3,4,4,4,444,Campeones
+26,1,7,203.69,4,2,2,422,Clientes con Potencial
+27,36,10,426.23,2,4,4,244,Clientes en Riesgo
+28,247,5,192.92000000000002,1,1,2,112,Clientes Dormidos
+29,51,7,274.83,2,2,3,223,Clientes en Riesgo
+30,105,4,199.15,1,1,2,112,Clientes Dormidos
+31,33,13,339.29,2,4,4,244,Clientes en Riesgo
+32,102,7,196.04,1,2,2,122,Clientes Dormidos
+33,138,5,223.79,1,1,2,112,Clientes Dormidos
+34,16,10,279.45,3,4,3,343,Clientes con Potencial
+35,91,6,313.71999999999997,1,1,3,113,Clientes Dormidos
+36,6,10,268.97,4,4,3,443,Clientes Leales
+37,68,7,182.79,1,2,1,121,Clientes Dormidos
+38,93,8,287.63,1,2,3,123,Clientes Dormidos
+39,30,7,225.68,2,2,2,222,Clientes en Riesgo
+40,10,8,307.16999999999996,4,2,3,423,Clientes con Potencial
+41,102,5,130.95,1,1,1,111,Clientes Dormidos
+42,134,4,112.63,1,1,1,111,Clientes Dormidos
+43,28,5,178.66,3,1,1,311,Clientes con Potencial
+44,1,8,207.11,4,2,2,422,Clientes con Potencial
+45,3,7,219.31,4,2,2,422,Clientes con Potencial
+46,18,13,410.85,3,4,4,344,Clientes con Potencial
+47,74,4,113.88,1,1,1,111,Clientes Dormidos
+48,72,11,376.0,1,4,4,144,Clientes Dormidos
+49,32,9,633.24,2,3,4,234,Clientes en Riesgo
+50,76,13,482.9,1,4,4,144,Clientes Dormidos
+51,139,4,57.47,1,1,1,111,Clientes Dormidos
+52,36,8,383.79999999999995,2,2,4,224,Clientes en Riesgo
+53,82,8,202.99,1,2,2,122,Clientes Dormidos
+54,6,12,383.94,4,4,4,444,Campeones
+55,59,10,296.12,1,4,3,143,Clientes Dormidos
+56,26,11,291.95,3,4,3,343,Clientes con Potencial
+57,139,6,133.06,1,1,1,111,Clientes Dormidos
+58,15,9,388.59,3,3,4,334,Clientes con Potencial
+59,89,7,139.95,1,2,1,121,Clientes Dormidos
+60,63,9,396.96,1,3,4,134,Clientes Dormidos
+61,76,8,269.40999999999997,1,2,3,123,Clientes Dormidos
+62,82,7,274.94,1,2,3,123,Clientes Dormidos
+63,45,10,279.45,2,4,3,243,Clientes en Riesgo
+64,31,7,153.67000000000002,2,2,1,221,Clientes en Riesgo
+65,9,5,145.57999999999998,4,1,1,411,Clientes con Potencial
+66,25,9,473.93999999999994,3,3,4,334,Clientes con Potencial
+67,10,6,131.88,4,1,1,411,Clientes con Potencial
+68,41,9,448.28999999999996,2,3,4,234,Clientes en Riesgo
+69,27,8,277.12,3,2,3,323,Clientes con Potencial
+70,8,9,251.45,4,3,2,432,Clientes Leales
+71,16,8,251.89,3,2,2,322,Clientes con Potencial
+72,3,6,186.01999999999998,4,1,2,412,Clientes con Potencial
+73,20,8,290.41999999999996,3,2,3,323,Clientes con Potencial
+74,30,7,392.58,2,2,4,224,Clientes en Riesgo
+75,26,9,233.02999999999997,3,3,2,332,Clientes con Potencial
+76,18,8,268.9,3,2,3,323,Clientes con Potencial
+77,81,8,183.69,1,2,1,121,Clientes Dormidos
+78,11,12,558.78,4,4,4,444,Campeones
+79,10,9,171.62,4,3,1,431,Clientes Leales
+80,55,8,210.73,2,2,2,222,Clientes en Riesgo
+81,9,10,534.49,4,4,4,444,Campeones
+82,5,7,290.90999999999997,4,2,3,423,Clientes con Potencial
+83,45,7,214.57,2,2,2,222,Clientes en Riesgo
+84,45,5,81.17,2,1,1,211,Clientes en Riesgo
+85,75,8,327.27,1,2,3,123,Clientes Dormidos
+86,52,6,267.73,2,1,3,213,Clientes en Riesgo
+87,2,9,300.32,4,3,3,433,Clientes Leales
+88,30,6,167.98,2,1,1,211,Clientes en Riesgo
+89,63,5,140.82,1,1,1,111,Clientes Dormidos
+90,27,14,754.03,3,4,4,344,Clientes con Potencial
+91,83,7,314.35,1,2,3,123,Clientes Dormidos
+92,101,5,212.73999999999998,1,1,2,112,Clientes Dormidos
+93,25,8,310.03999999999996,3,2,3,323,Clientes con Potencial
+94,10,9,402.15,4,3,4,434,Clientes Leales
+95,31,10,285.79,2,4,3,243,Clientes en Riesgo
+96,21,4,105.42999999999999,3,1,1,311,Clientes con Potencial
+97,8,11,639.16,4,4,4,444,Campeones
+98,6,11,414.41999999999996,4,4,4,444,Campeones
+99,44,8,156.47,2,2,1,221,Clientes en Riesgo
+100,98,8,205.35,1,2,2,122,Clientes Dormidos
+101,95,4,185.8,1,1,2,112,Clientes Dormidos
+102,50,7,385.05999999999995,2,2,4,224,Clientes en Riesgo
+103,9,7,321.25,4,2,3,423,Clientes con Potencial
+104,30,8,362.65,2,2,4,224,Clientes en Riesgo
+105,7,7,314.35,4,2,3,423,Clientes con Potencial
+106,3,18,614.53,4,4,4,444,Campeones
+107,7,3,99.4,4,1,1,411,Clientes con Potencial
+108,9,8,237.79,4,2,2,422,Clientes con Potencial
+109,6,8,219.38,4,2,2,422,Clientes con Potencial
+110,8,5,146.63,4,1,1,411,Clientes con Potencial
+111,53,9,355.0,2,3,4,234,Clientes en Riesgo
+112,137,5,131.13,1,1,1,111,Clientes Dormidos
+113,6,5,259.38,4,1,3,413,Clientes con Potencial
+114,121,9,269.95,1,3,3,133,Clientes Dormidos
+115,22,8,267.25,3,2,3,323,Clientes con Potencial
+116,10,6,160.68,4,1,1,411,Clientes con Potencial
+117,10,6,166.81,4,1,1,411,Clientes con Potencial
+118,12,7,338.95,4,2,4,424,Clientes con Potencial
+119,3,11,516.94,4,4,4,444,Campeones
+120,85,6,226.35,1,1,2,112,Clientes Dormidos
+121,2,7,334.64,4,2,4,424,Clientes con Potencial
+122,39,8,313.21,2,2,3,223,Clientes en Riesgo
+123,22,8,228.75,3,2,2,322,Clientes con Potencial
+124,7,10,269.55,4,4,3,443,Clientes Leales
+125,52,9,312.74,2,3,3,233,Clientes en Riesgo
+126,108,6,194.24999999999997,1,1,2,112,Clientes Dormidos
+127,83,6,314.99,1,1,3,113,Clientes Dormidos
+128,26,9,271.77,3,3,3,333,Clientes con Potencial
+129,89,3,212.33999999999997,1,1,2,112,Clientes Dormidos
+130,14,12,548.27,3,4,4,344,Clientes con Potencial
+131,11,5,292.36,4,1,3,413,Clientes con Potencial
+132,31,8,325.52,2,2,3,223,Clientes en Riesgo
+133,95,3,122.3,1,1,1,111,Clientes Dormidos
+134,13,11,409.9,3,4,4,344,Clientes con Potencial
+135,93,4,182.4,1,1,1,111,Clientes Dormidos
+136,10,7,230.44,4,2,2,422,Clientes con Potencial
+137,29,4,91.02,3,1,1,311,Clientes con Potencial
+138,138,5,101.16,1,1,1,111,Clientes Dormidos
+139,15,7,176.12,3,2,1,321,Clientes con Potencial
+140,17,8,235.63,3,2,2,322,Clientes con Potencial
+141,2,9,294.28999999999996,4,3,3,433,Clientes Leales
+142,35,7,209.4,2,2,2,222,Clientes en Riesgo
+143,28,6,233.69,3,1,2,312,Clientes con Potencial
+144,6,10,217.5,4,4,2,442,Clientes Leales
+145,28,9,355.32,3,3,4,334,Clientes con Potencial
+146,12,5,270.40999999999997,4,1,3,413,Clientes con Potencial
+147,57,5,83.43,2,1,1,211,Clientes en Riesgo
+148,2,12,347.02,4,4,4,444,Campeones
+149,130,5,71.63,1,1,1,111,Clientes Dormidos
+150,24,8,273.32,3,2,3,323,Clientes con Potencial
+151,6,15,504.7,4,4,4,444,Campeones
+152,42,14,580.4899999999999,2,4,4,244,Clientes en Riesgo
+153,7,9,222.51999999999998,4,3,2,432,Clientes Leales
+154,15,3,42.29,3,1,1,311,Clientes con Potencial
+155,12,7,226.38,4,2,2,422,Clientes con Potencial
+156,165,5,216.07999999999998,1,1,2,112,Clientes Dormidos
+157,60,8,221.43,1,2,2,122,Clientes Dormidos
+158,7,9,302.35,4,3,3,433,Clientes Leales
+159,5,11,565.8299999999999,4,4,4,444,Campeones
+160,24,5,261.72,3,1,3,313,Clientes con Potencial
+161,3,8,225.71,4,2,2,422,Clientes con Potencial
+162,6,12,233.53,4,4,2,442,Clientes Leales
+163,76,5,209.1,1,1,2,112,Clientes Dormidos
+164,100,8,401.07,1,2,4,124,Clientes Dormidos
+165,56,7,139.79,2,2,1,221,Clientes en Riesgo
+166,11,6,253.54,4,1,3,413,Clientes con Potencial
+167,92,9,352.93999999999994,1,3,4,134,Clientes Dormidos
+168,23,14,406.24,3,4,4,344,Clientes con Potencial
+169,22,10,214.14000000000001,3,4,2,342,Clientes con Potencial
+170,30,8,355.90999999999997,2,2,4,224,Clientes en Riesgo
+171,22,14,445.98999999999995,3,4,4,344,Clientes con Potencial
+172,1,7,173.24,4,2,1,421,Clientes con Potencial
+173,57,4,184.88,2,1,2,212,Clientes en Riesgo
+174,15,9,345.63,3,3,4,334,Clientes con Potencial
+175,25,9,448.13,3,3,4,334,Clientes con Potencial
+176,3,13,310.88,4,4,3,443,Clientes Leales
+177,14,10,282.90999999999997,3,4,3,343,Clientes con Potencial
+178,86,5,146.42999999999998,1,1,1,111,Clientes Dormidos
+179,10,8,409.55,4,2,4,424,Clientes con Potencial
+180,8,12,294.09999999999997,4,4,3,443,Clientes Leales
+181,71,6,197.05,1,1,2,112,Clientes Dormidos
+182,37,5,134.03,2,1,1,211,Clientes en Riesgo
+183,58,7,145.25,2,2,1,221,Clientes en Riesgo
+184,77,10,262.63,1,4,3,143,Clientes Dormidos
+185,30,15,330.74,2,4,3,243,Clientes en Riesgo
+186,32,8,181.9,2,2,1,221,Clientes en Riesgo
+187,16,10,301.51,3,4,3,343,Clientes con Potencial
+188,76,8,401.90000000000003,1,2,4,124,Clientes Dormidos
+189,54,6,171.26,2,1,1,211,Clientes en Riesgo
+190,10,9,166.78,4,3,1,431,Clientes Leales
+191,134,3,73.07,1,1,1,111,Clientes Dormidos
+192,3,9,609.78,4,3,4,434,Clientes Leales
+193,124,8,391.71999999999997,1,2,4,124,Clientes Dormidos
+194,2,8,275.08,4,2,3,423,Clientes con Potencial
+195,210,4,191.45,1,1,2,112,Clientes Dormidos
+196,33,2,116.92999999999999,2,1,1,211,Clientes en Riesgo
+197,105,7,172.98,1,2,1,121,Clientes Dormidos
+198,26,7,408.46,3,2,4,324,Clientes con Potencial
+199,13,5,172.26999999999998,3,1,1,311,Clientes con Potencial
+200,7,9,245.98,4,3,2,432,Clientes Leales
+201,13,7,315.36,3,2,3,323,Clientes con Potencial
+202,5,7,257.84999999999997,4,2,3,423,Clientes con Potencial
+203,65,9,189.89999999999998,1,3,2,132,Clientes Dormidos
+204,22,7,242.49,3,2,2,322,Clientes con Potencial
+205,12,9,300.68,4,3,3,433,Clientes Leales
+206,89,5,159.01999999999998,1,1,1,111,Clientes Dormidos
+207,20,10,227.03,3,4,2,342,Clientes con Potencial
+208,72,5,184.76999999999998,1,1,2,112,Clientes Dormidos
+209,40,12,456.09999999999997,2,4,4,244,Clientes en Riesgo
+210,24,7,280.15,3,2,3,323,Clientes con Potencial
+211,64,7,168.91,1,2,1,121,Clientes Dormidos
+212,2,9,419.06,4,3,4,434,Clientes Leales
+213,105,9,362.2,1,3,4,134,Clientes Dormidos
+214,40,10,417.89,2,4,4,244,Clientes en Riesgo
+215,110,8,190.57999999999998,1,2,2,122,Clientes Dormidos
+216,55,5,180.81,2,1,1,211,Clientes en Riesgo
+217,7,6,135.71,4,1,1,411,Clientes con Potencial
+218,18,9,425.85999999999996,3,3,4,334,Clientes con Potencial
+219,35,9,344.64,2,3,4,234,Clientes en Riesgo
+220,50,6,175.26,2,1,1,211,Clientes en Riesgo
+221,23,7,223.35999999999999,3,2,2,322,Clientes con Potencial
+222,24,12,314.77,3,4,3,343,Clientes con Potencial
+223,97,7,290.25,1,2,3,123,Clientes Dormidos
+224,52,10,430.01,2,4,4,244,Clientes en Riesgo
+225,50,8,322.40999999999997,2,2,3,223,Clientes en Riesgo
+226,28,6,238.37,3,1,2,312,Clientes con Potencial
+227,22,2,16.25,3,1,1,311,Clientes con Potencial
+228,34,7,313.4,2,2,3,223,Clientes en Riesgo
+229,116,7,202.06,1,2,2,122,Clientes Dormidos
+230,29,8,399.2,3,2,4,324,Clientes con Potencial
+231,39,8,243.46,2,2,2,222,Clientes en Riesgo
+232,6,7,242.93,4,2,2,422,Clientes con Potencial
+233,75,12,318.81,1,4,3,143,Clientes Dormidos
+234,52,13,424.59,2,4,4,244,Clientes en Riesgo
+235,143,7,220.74,1,2,2,122,Clientes Dormidos
+236,3,5,148.89,4,1,1,411,Clientes con Potencial
+237,27,11,576.37,3,4,4,344,Clientes con Potencial
+238,83,7,235.17000000000002,1,2,2,122,Clientes Dormidos
+239,43,7,255.57999999999998,2,2,3,223,Clientes en Riesgo
+240,53,5,179.07,2,1,1,211,Clientes en Riesgo
+241,48,9,370.54999999999995,2,3,4,234,Clientes en Riesgo
+242,46,9,483.35,2,3,4,234,Clientes en Riesgo
+243,101,3,81.37,1,1,1,111,Clientes Dormidos
+244,27,5,130.63,3,1,1,311,Clientes con Potencial
+245,37,12,230.72,2,4,2,242,Clientes en Riesgo
+246,1,7,186.0,4,2,2,422,Clientes con Potencial
+247,35,10,281.09,2,4,3,243,Clientes en Riesgo
+248,1,11,432.52,4,4,4,444,Campeones
+249,182,6,223.85,1,1,2,112,Clientes Dormidos
+250,30,9,317.86,2,3,3,233,Clientes en Riesgo
+251,171,3,126.69999999999999,1,1,1,111,Clientes Dormidos
+252,2,12,409.71999999999997,4,4,4,444,Campeones
+253,5,3,126.66,4,1,1,411,Clientes con Potencial
+254,52,5,100.44999999999999,2,1,1,211,Clientes en Riesgo
+255,13,7,139.19,3,2,1,321,Clientes con Potencial
+256,46,3,275.64,2,1,3,213,Clientes en Riesgo
+257,24,8,208.35,3,2,2,322,Clientes con Potencial
+258,21,9,333.65999999999997,3,3,4,334,Clientes con Potencial
+259,26,4,126.11999999999999,3,1,1,311,Clientes con Potencial
+260,9,8,271.14,4,2,3,423,Clientes con Potencial
+261,30,7,220.69,2,2,2,222,Clientes en Riesgo
+262,8,4,191.32999999999998,4,1,2,412,Clientes con Potencial
+263,3,6,169.65,4,1,1,411,Clientes con Potencial
+264,12,10,354.91999999999996,4,4,4,444,Campeones
+265,21,5,242.0,3,1,2,312,Clientes con Potencial
+266,38,13,463.0,2,4,4,244,Clientes en Riesgo
+267,40,4,57.910000000000004,2,1,1,211,Clientes en Riesgo
+268,14,9,325.11,3,3,3,333,Clientes con Potencial
+269,36,6,111.46000000000001,2,1,1,211,Clientes en Riesgo
+270,97,3,159.28,1,1,1,111,Clientes Dormidos
+271,30,10,313.6,2,4,3,243,Clientes en Riesgo
+272,1,9,399.49,4,3,4,434,Clientes Leales
+273,178,7,251.12,1,2,2,122,Clientes Dormidos
+274,69,9,294.65,1,3,3,133,Clientes Dormidos
+275,24,8,434.90999999999997,3,2,4,324,Clientes con Potencial
+276,27,4,371.13,3,1,4,314,Clientes con Potencial
+277,46,5,218.99,2,1,2,212,Clientes en Riesgo
+278,44,13,403.12,2,4,4,244,Clientes en Riesgo
+279,35,7,184.7,2,2,1,221,Clientes en Riesgo
+280,19,8,239.16,3,2,2,322,Clientes con Potencial
+281,32,8,237.2,2,2,2,222,Clientes en Riesgo
+282,82,7,300.71,1,2,3,123,Clientes Dormidos
+283,8,11,354.08,4,4,4,444,Campeones
+284,16,6,211.59,3,1,2,312,Clientes con Potencial
+285,19,5,174.18,3,1,1,311,Clientes con Potencial
+286,15,8,262.25,3,2,3,323,Clientes con Potencial
+287,12,8,188.32,4,2,2,422,Clientes con Potencial
+288,115,11,246.03,1,4,2,142,Clientes Dormidos
+289,29,8,268.33,3,2,3,323,Clientes con Potencial
+290,30,7,243.51999999999998,2,2,2,222,Clientes en Riesgo
+291,76,6,229.57,1,1,2,112,Clientes Dormidos
+292,41,7,257.21999999999997,2,2,3,223,Clientes en Riesgo
+293,35,4,213.48999999999998,2,1,2,212,Clientes en Riesgo
+294,90,5,142.45000000000002,1,1,1,111,Clientes Dormidos
+295,11,6,276.37,4,1,3,413,Clientes con Potencial
+296,47,6,174.62,2,1,1,211,Clientes en Riesgo
+297,78,4,97.15,1,1,1,111,Clientes Dormidos
+298,57,7,252.76999999999998,2,2,3,223,Clientes en Riesgo
+299,76,10,351.39,1,4,4,144,Clientes Dormidos
+300,138,5,149.86,1,1,1,111,Clientes Dormidos
+301,112,8,167.71,1,2,1,121,Clientes Dormidos
+302,2,7,225.13,4,2,2,422,Clientes con Potencial
+303,62,8,393.44,1,2,4,124,Clientes Dormidos
+304,6,6,238.4,4,1,2,412,Clientes con Potencial
+305,27,6,317.96,3,1,3,313,Clientes con Potencial
+306,76,8,308.06,1,2,3,123,Clientes Dormidos
+307,49,18,522.26,2,4,4,244,Clientes en Riesgo
+308,11,7,339.21,4,2,4,424,Clientes con Potencial
+309,15,6,190.97000000000003,3,1,2,312,Clientes con Potencial
+310,37,6,131.9,2,1,1,211,Clientes en Riesgo
+311,48,13,526.05,2,4,4,244,Clientes en Riesgo
+312,22,6,278.45,3,1,3,313,Clientes con Potencial
+313,12,11,407.58,4,4,4,444,Campeones
+314,41,6,99.44999999999999,2,1,1,211,Clientes en Riesgo
+315,12,6,203.15,4,1,2,412,Clientes con Potencial
+316,4,14,381.55,4,4,4,444,Campeones
+317,21,8,156.78,3,2,1,321,Clientes con Potencial
+318,32,8,251.51999999999998,2,2,2,222,Clientes en Riesgo
+319,6,5,169.99,4,1,1,411,Clientes con Potencial
+320,129,5,145.56,1,1,1,111,Clientes Dormidos
+321,7,11,398.13,4,4,4,444,Campeones
+322,12,3,70.6,4,1,1,411,Clientes con Potencial
+323,19,9,231.98000000000002,3,3,2,332,Clientes con Potencial
+324,94,6,179.48,1,1,1,111,Clientes Dormidos
+325,18,12,314.16,3,4,3,343,Clientes con Potencial
+326,10,8,235.01,4,2,2,422,Clientes con Potencial

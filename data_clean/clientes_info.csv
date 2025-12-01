@@ -1,0 +1,327 @@
+ID_Cliente,Nombre,Apellido,Email,Fecha_Registro,Region,total_productos,total_gasto,gasto_promedio,Cancelada,Completa,Pendiente,forma_pago_1,forma_pago_2,forma_pago_3,forma_pago_4,forma_pago_5,label
+1,Karisa,Cromett,kcromett0@imageshack.us,19/11/2023,Patagonia,41,287.77,26.16090909090909,0,11,2,1,0,3,4,5,1
+2,Lenette,Seabert,lseabert1@yahoo.co.jp,07/05/2023,Patagonia,9,103.28,34.42666666666667,0,3,1,1,0,0,2,1,0
+3,Buddy,Silverson,bsilverson2@howstuffworks.com,27/03/2023,Patagonia,23,160.24,22.891428571428573,0,7,1,3,0,2,2,1,0
+4,Dan,Parkin,dparkin3@virginia.edu,26/10/2023,Buenos Aires,30,230.16,32.88,0,7,1,2,1,2,2,1,1
+5,Conney,Cassella,ccassella4@who.int,31/03/2023,Centro,19,164.48000000000002,23.497142857142858,0,7,2,1,1,3,3,1,0
+6,Saunder,Fone,sfone5@tumblr.com,07/06/2023,Buenos Aires,24,184.61,20.512222222222224,0,9,0,1,1,3,0,4,0
+7,Sophia,Landon,slandon6@imgur.com,19/03/2023,Cuyo,28,301.91999999999996,37.739999999999995,0,8,1,3,1,1,3,1,1
+8,Joellen,Grey,jgrey7@buzzfeed.com,13/05/2023,Buenos Aires,37,286.51,31.834444444444443,0,9,1,3,0,2,2,3,1
+9,Ephraim,Blackstone,eblackstone8@linkedin.com,02/04/2023,Centro,21,268.15,44.69166666666666,0,6,4,0,1,1,5,3,1
+10,Stephenie,Sexty,ssexty9@domainmarket.com,23/11/2023,Buenos Aires,25,253.23999999999998,42.20666666666666,0,6,1,1,1,2,2,1,1
+11,Hilario,Hubble,hhubblea@lycos.com,12/10/2023,Buenos Aires,29,242.31,24.231,0,10,3,2,3,0,4,4,0
+12,Daisy,Vennart,dvennartb@shutterfly.com,21/08/2023,Patagonia,27,197.15,24.64375,0,8,0,3,0,1,2,2,0
+13,Kameko,Moland,kmolandc@samsung.com,23/10/2023,Centro,31,409.95,51.24375,0,8,3,1,0,3,4,3,1
+14,Fedora,Brackenbury,fbrackenburyd@nsw.gov.au,01/05/2023,Buenos Aires,37,332.23,30.202727272727273,0,11,2,3,1,1,4,4,1
+15,Locke,Getsham,lgetshame@joomla.org,29/12/2023,Buenos Aires,35,455.18,50.57555555555555,0,9,0,1,0,0,4,4,2
+16,Robena,Arkill,rarkillf@usnews.com,19/04/2023,Buenos Aires,12,100.2,50.1,0,2,2,0,1,0,2,1,0
+17,Marianna,Kyle,mkyleg@blogs.com,25/07/2023,Buenos Aires,32,413.33000000000004,51.666250000000005,0,8,3,2,2,2,3,2,1
+18,Palm,TRUE,ptrueh@howstuffworks.com,23/12/2023,Centro,20,193.92,38.784,0,5,0,0,1,1,3,0,0
+19,Victoria,Filyukov,vfilyukovi@thetimes.co.uk,13/11/2023,Centro,26,158.46,22.63714285714286,0,7,0,0,1,1,2,3,0
+20,Benedicto,Selbach,bselbachj@ning.com,22/07/2023,Cuyo,37,318.19,28.926363636363636,0,11,0,1,0,4,2,4,1
+21,Kleon,Mitrovic,kmitrovick@opera.com,25/05/2023,Buenos Aires,42,421.74,38.34,0,11,1,2,1,3,3,3,2
+22,Laird,Grainger,lgraingerl@4shared.com,26/09/2023,Centro,26,293.86,41.980000000000004,0,7,1,2,0,0,2,4,1
+23,Essy,Ruperti,erupertim@theatlantic.com,04/05/2023,Patagonia,28,270.23,33.77875,0,8,1,2,0,0,4,3,1
+24,Juan,Borrowman,jborrowmann@xrea.com,23/07/2023,Cuyo,49,391.94,32.66166666666667,0,12,2,1,1,1,8,3,2
+25,Queenie,Moyer,qmoyero@foxnews.com,18/06/2023,Patagonia,36,412.3,34.358333333333334,0,12,2,1,0,3,5,5,2
+26,Byrom,Soro,bsorop@senate.gov,05/07/2023,Centro,19,203.69,29.09857142857143,0,7,1,3,0,1,2,2,0
+27,Bealle,Andreuzzi,bandreuzziq@gov.uk,29/11/2023,Buenos Aires,42,426.23,42.623000000000005,0,10,1,2,1,0,5,3,2
+28,Theodoric,Bunny,tbunnyr@shinystat.com,25/11/2023,NEA,17,192.92000000000002,38.584,0,5,2,1,0,2,4,0,0
+29,Hugh,Lipsett,hlipsetts@sbwire.com,10/09/2023,NEA,25,274.83,39.26142857142857,0,7,2,1,0,4,2,2,1
+30,Martainn,Burton,mburtont@jigsy.com,15/06/2023,Buenos Aires,18,199.15,49.7875,0,4,2,3,0,0,2,1,1
+31,Marni,Ruthven,mruthvenu@cocolog-nifty.com,28/03/2023,Centro,42,339.29,26.099230769230772,0,13,2,2,1,4,2,6,2
+32,Cristen,Ottee,cotteev@reference.com,27/07/2023,Cuyo,21,196.04,28.005714285714284,0,7,0,1,1,3,2,0,0
+33,Rosemarie,Swadling,rswadlingw@weebly.com,10/08/2023,NEA,27,223.79,44.757999999999996,0,5,1,2,0,1,1,2,1
+34,Karolina,Husselbee,khusselbeex@ezinearticles.com,05/12/2023,Cuyo,35,279.45,27.945,0,10,1,1,3,0,3,4,1
+35,Matthew,Rudderham,mrudderhamy@mashable.com,23/04/2023,NOA,26,313.71999999999997,52.28666666666666,0,6,2,2,0,2,3,1,1
+36,Lothaire,Bolderson,lboldersonz@gov.uk,31/10/2023,Buenos Aires,32,268.97,26.897000000000002,0,10,2,0,2,1,3,6,1
+37,Frederik,Gook,fgook10@newsvine.com,04/11/2023,Cuyo,27,182.79,26.11285714285714,0,7,1,4,0,0,2,2,0
+38,Genevra,Perree,gperree11@usgs.gov,19/12/2023,Patagonia,34,287.63,35.95375,0,8,0,1,1,2,1,3,1
+39,Filippo,Culkin,fculkin12@people.com.cn,12/10/2023,Patagonia,24,225.68,32.24,0,7,1,1,1,2,2,2,0
+40,Holli,Cousans,hcousans13@yelp.com,13/04/2023,Cuyo,39,307.17,38.39625,0,8,1,1,0,1,6,1,1
+41,Felisha,Jayne,fjayne14@mlb.com,29/07/2023,Patagonia,14,130.95,26.189999999999998,0,5,3,1,0,1,4,2,0
+42,Myer,Wattinham,mwattinham15@oracle.com,23/06/2023,Patagonia,13,112.63,28.1575,0,4,0,1,1,0,1,1,0
+43,Brenda,Buckel,bbuckel16@acquirethisname.com,27/09/2023,Patagonia,15,178.66,35.732,0,5,2,2,0,0,1,4,0
+44,Cyrill,Runge,crunge17@sfgate.com,17/09/2023,Buenos Aires,27,207.11,25.88875,0,8,1,0,1,1,3,4,0
+45,Doll,Rye,drye18@ezinearticles.com,16/08/2023,Buenos Aires,20,219.31,31.330000000000002,0,7,2,1,0,2,3,3,0
+46,Slade,Stockle,sstockle19@slate.com,10/08/2023,Centro,40,410.85,31.603846153846156,0,13,1,2,0,0,5,7,2
+47,Betteanne,Pratley,bpratley1a@archive.org,28/09/2023,Buenos Aires,12,113.88,28.47,0,4,3,1,0,1,4,1,0
+48,Corbie,Von Der Empten,cvonderempten1b@printfriendly.com,18/10/2023,Patagonia,39,376.0,34.18181818181818,0,11,3,2,1,2,5,4,2
+49,Sarita,McAsgill,smcasgill1c@flavors.me,04/12/2023,Buenos Aires,46,633.24,70.36,0,9,0,0,0,2,6,1,2
+50,Nickolaus,Coppins,ncoppins1d@xrea.com,21/09/2023,Buenos Aires,47,482.9,37.146153846153844,0,13,2,1,3,1,5,5,2
+51,Maire,Rumble,mrumble1e@blinklist.com,30/10/2023,Cuyo,8,57.47,14.3675,0,4,0,0,1,0,1,2,0
+52,Albrecht,McGrirl,amcgrirl1f@163.com,09/10/2023,Patagonia,26,383.79999999999995,47.974999999999994,1,8,0,2,3,1,2,1,3
+53,Fitz,Fuge,ffuge1g@joomla.org,03/08/2023,Centro,26,202.99,25.37375,0,8,0,1,1,3,1,2,0
+54,Byram,Ferenczi,bferenczi1h@studiopress.com,18/08/2023,Buenos Aires,52,383.94,31.995,0,12,1,2,1,2,7,1,2
+55,Amory,Highnam,ahighnam1i@cnbc.com,06/05/2023,Patagonia,32,296.12,29.612000000000002,0,10,1,0,0,0,3,8,1
+56,Vevay,Wellum,vwellum1j@tumblr.com,27/06/2023,Centro,31,291.95,26.54090909090909,0,11,4,1,0,4,4,6,1
+57,Olenolin,Wakeman,owakeman1k@mapy.cz,15/12/2023,Centro,15,133.06,22.176666666666666,0,6,3,3,0,1,4,1,0
+58,Hilarius,Abad,habad1l@wisc.edu,30/09/2023,Buenos Aires,33,388.59,43.17666666666666,0,9,3,3,2,1,3,3,1
+59,Morse,Peters,mpeters1m@sitemeter.com,24/04/2023,Centro,19,139.95,19.99285714285714,0,7,2,2,1,1,0,5,0
+60,Lisabeth,Murty,lmurty1n@google.it,17/04/2023,NEA,35,396.96000000000004,44.10666666666667,0,9,3,4,0,1,4,3,2
+61,Flore,Astlatt,fastlatt1o@discovery.com,17/11/2023,Buenos Aires,32,269.40999999999997,33.676249999999996,0,8,0,4,1,1,1,1,1
+62,Paula,Gittins,pgittins1p@quantcast.com,14/09/2023,NEA,29,274.94,39.277142857142856,0,7,4,0,0,4,3,4,1
+63,Yule,Bruin,ybruin1q@senate.gov,30/11/2023,Buenos Aires,40,279.45,27.945,0,10,2,3,0,0,3,6,1
+64,Randolph,Collicott,rcollicott1r@miibeian.gov.cn,18/10/2023,NEA,16,153.67000000000002,21.952857142857145,0,7,2,3,0,1,5,0,0
+65,Lillian,Jizhaki,ljizhaki1s@squidoo.com,29/06/2023,Buenos Aires,12,145.57999999999998,29.115999999999996,0,5,0,2,0,1,0,2,0
+66,Regan,Crocetti,rcrocetti1t@csmonitor.com,24/03/2023,Buenos Aires,26,473.94,52.66,0,9,2,3,0,1,4,3,1
+67,Avigdor,Gorey,agorey1u@tmall.com,19/12/2023,NEA,22,131.88,21.98,0,6,3,3,0,1,5,0,0
+68,Miriam,Domerque,mdomerque1v@blogspot.com,20/07/2023,Patagonia,37,448.29,49.81,0,9,4,1,0,1,7,4,2
+69,Ham,Rapley,hrapley1w@meetup.com,19/05/2023,Cuyo,24,277.12,34.64,0,8,1,3,1,0,2,3,1
+70,Drugi,Hancill,dhancill1x@senate.gov,19/07/2023,Centro,35,251.45,27.938888888888886,0,9,2,1,1,1,5,3,1
+71,Colly,Blucher,cblucher1y@youtube.com,02/05/2023,Buenos Aires,30,251.89000000000001,31.486250000000002,0,8,2,2,2,2,1,3,1
+72,Amby,Maltby,amaltby1z@phoca.cz,28/10/2023,Centro,23,186.01999999999998,31.00333333333333,0,6,2,1,0,2,3,2,0
+73,Akim,Cruz,acruz20@photobucket.com,20/03/2023,Centro,27,290.42,36.3025,0,8,1,2,1,0,4,2,1
+74,Huey,Stead,hstead21@vinaora.com,05/05/2023,Patagonia,29,392.58,56.082857142857144,0,7,1,1,0,2,3,2,1
+75,Roma,Battill,rbattill22@ask.com,26/12/2023,NEA,28,233.03,25.892222222222223,0,9,3,2,1,1,5,3,0
+76,Marlowe,Bidgod,mbidgod23@nationalgeographic.com,12/07/2023,Centro,30,268.9,33.6125,0,8,0,2,0,5,1,0,1
+77,Mickie,Dellar,mdellar24@meetup.com,29/10/2023,Buenos Aires,20,183.69,22.96125,0,8,1,4,0,3,0,2,0
+78,Gabbi,Harnell,gharnell25@tiny.cc,25/09/2023,Buenos Aires,53,558.78,46.565,0,12,1,0,1,3,6,3,2
+79,Valentin,Coard,vcoard26@mayoclinic.com,11/07/2023,Patagonia,27,171.62,19.06888888888889,0,9,4,2,1,1,5,4,0
+80,Aubry,Stille,astille27@bing.com,19/12/2023,NEA,35,210.73,26.34125,0,8,0,0,1,4,2,1,0
+81,Cthrine,Waltho,cwaltho28@sfgate.com,08/05/2023,Buenos Aires,36,534.49,53.449,0,10,0,4,1,2,2,1,2
+82,Adham,Leebeter,aleebeter29@dedecms.com,06/11/2023,Buenos Aires,23,290.90999999999997,41.558571428571426,0,7,4,3,0,2,4,2,1
+83,Nelia,MacGow,nmacgow2a@ibm.com,14/09/2023,Buenos Aires,23,214.57,30.65285714285714,0,7,1,2,0,2,1,3,0
+84,Stefan,Peddel,speddel2b@biblegateway.com,16/11/2023,Buenos Aires,16,81.17,16.234,0,5,0,1,0,2,1,1,0
+85,Curran,Macari,cmacari2c@arizona.edu,02/04/2023,Cuyo,30,327.27,40.90875,0,8,2,1,1,3,3,2,1
+86,Anjela,Villaron,avillaron2d@eventbrite.com,04/04/2023,Patagonia,23,267.73,44.62166666666667,0,6,2,1,2,1,2,2,1
+87,Aeriel,Garahan,agarahan2e@sfgate.com,22/08/2023,Patagonia,34,300.32,33.36888888888889,0,9,1,4,0,1,2,3,1
+88,Joan,Broxis,jbroxis2f@t.co,06/12/2023,Patagonia,20,167.98,27.996666666666666,0,6,1,1,0,2,2,2,0
+89,Tawsha,Olle,tolle2g@bizjournals.com,03/04/2023,Patagonia,15,140.82,28.163999999999998,0,5,2,4,0,1,0,2,0
+90,Pinchas,Stollsteiner,pstollsteiner2h@hostgator.com,09/08/2023,Buenos Aires,52,754.03,53.85928571428571,0,14,2,1,2,7,2,4,2
+91,Haley,Fain,hfain2i@illinois.edu,16/05/2023,Buenos Aires,31,314.35,44.90714285714286,0,7,2,0,1,1,4,3,1
+92,Vivianna,Foulcher,vfoulcher2j@pen.io,05/10/2023,Patagonia,24,212.73999999999998,42.547999999999995,0,5,0,1,0,2,2,0,1
+93,Gay,Allans,gallans2k@simplemachines.org,02/06/2023,Buenos Aires,31,310.03999999999996,38.754999999999995,0,8,2,2,1,4,1,2,1
+94,Cy,Doreward,cdoreward2l@so-net.ne.jp,28/09/2023,Centro,30,402.15,44.68333333333333,0,9,1,2,1,3,2,2,1
+95,Anne-marie,Kildahl,akildahl2m@csmonitor.com,26/05/2023,Buenos Aires,32,285.79,28.579,0,10,2,1,0,3,3,5,1
+96,Anallise,Iacopini,aiacopini2n@ihg.com,08/08/2023,Buenos Aires,12,105.42999999999999,26.357499999999998,0,4,0,0,0,0,2,2,0
+97,Judah,Dan,jdan2o@pagesperso-orange.fr,04/04/2023,Buenos Aires,46,639.16,58.10545454545454,0,11,1,0,3,0,3,6,2
+98,Lin,Godard,lgodard2p@ihg.com,20/11/2023,Centro,42,414.42,37.67454545454546,0,11,2,3,1,3,4,2,2
+99,Georgia,McAlpine,gmcalpine2q@de.vu,09/08/2023,Buenos Aires,18,156.47,19.55875,0,8,0,3,1,0,2,2,0
+100,Orv,Hun,ohun2r@goo.gl,24/07/2023,NEA,33,205.35,25.66875,0,8,0,0,0,2,4,2,0
+101,Vannie,Kennermann,vkennermann2s@blogtalkradio.com,22/10/2023,Buenos Aires,16,185.8,46.45,0,4,2,1,1,3,1,0,1
+102,Seana,Radbone,sradbone2t@clickbank.net,14/05/2023,Patagonia,26,385.06,55.00857142857143,0,7,2,2,1,1,1,4,1
+103,Adina,Cleugh,acleugh2u@springer.com,16/09/2023,Patagonia,28,321.25,45.892857142857146,0,7,2,0,1,3,1,4,1
+104,Serena,Wison,swison2v@upenn.edu,10/05/2023,Buenos Aires,31,362.65,45.33125,0,8,4,2,1,3,2,4,1
+105,Yelena,Gaytor,ygaytor2w@tinyurl.com,04/06/2023,Buenos Aires,30,314.35,44.90714285714286,0,7,1,1,0,3,4,0,1
+106,Benedikta,Condon,bcondon2x@paypal.com,23/06/2023,NEA,70,614.53,34.14055555555555,0,18,1,5,1,2,5,6,2
+107,Gretna,Kirwin,gkirwin2y@bloglines.com,11/07/2023,Patagonia,10,99.4,33.13333333333333,1,3,0,1,0,0,3,0,3
+108,Riley,Obey,robey2z@ucsd.edu,04/06/2023,Patagonia,27,237.79,29.72375,0,8,2,1,1,1,6,1,0
+109,Andie,Arundale,aarundale30@mapquest.com,28/08/2023,Cuyo,34,219.38,27.4225,0,8,1,1,0,4,2,2,0
+110,Joeann,Muirden,jmuirden31@ameblo.jp,14/06/2023,NEA,12,146.63,29.326,0,5,1,0,0,0,4,2,0
+111,Ave,Purchon,apurchon32@cbc.ca,21/03/2023,Cuyo,35,355.0,39.44444444444444,0,9,4,3,1,2,4,3,1
+112,Ellie,Lockey,elockey33@mozilla.org,19/12/2023,NEA,16,131.13,26.226,0,5,2,1,0,1,2,3,0
+113,Phip,Altree,paltree34@indiatimes.com,28/07/2023,Buenos Aires,21,259.38,51.876,0,5,0,2,1,1,0,1,1
+114,Fabien,Roskam,froskam35@desdev.cn,11/04/2023,Centro,30,269.95,29.994444444444444,0,9,1,1,1,0,3,5,1
+115,Reyna,Pontefract,rpontefract36@yellowbook.com,14/11/2023,Cuyo,24,267.25,33.40625,0,8,2,2,1,1,4,2,1
+116,Hedda,Garbott,hgarbott37@noaa.gov,14/07/2023,Buenos Aires,24,160.68,26.78,0,6,0,0,2,1,1,2,0
+117,Ginnie,Saben,gsaben38@shop-pro.jp,23/10/2023,NOA,13,166.81,27.801666666666666,0,6,2,2,0,2,1,3,0
+118,Dallon,Hedworth,dhedworth39@samsung.com,30/07/2023,Centro,28,338.95,48.42142857142857,0,7,1,0,1,1,4,2,1
+119,Chase,Rayner,crayner3a@netvibes.com,24/11/2023,Patagonia,51,516.94,46.99454545454546,0,11,4,4,2,2,5,2,2
+120,Baxter,Ritmeier,britmeier3b@alibaba.com,15/09/2023,Buenos Aires,23,226.35,37.725,0,6,2,1,0,0,3,4,1
+121,Mead,Brandin,mbrandin3c@purevolume.com,18/09/2023,Cuyo,29,334.64,47.80571428571428,0,7,0,0,1,2,4,0,1
+122,Kerr,Whitesel,kwhitesel3d@indiatimes.com,28/05/2023,Centro,29,313.21,39.15125,0,8,3,0,4,2,4,1,1
+123,Reggie,Thorwarth,rthorwarth3e@blog.com,24/10/2023,Patagonia,25,228.75,28.59375,0,8,1,3,2,3,0,1,0
+124,Rustie,Astlet,rastlet3f@globo.com,03/09/2023,NEA,23,269.55,26.955000000000002,0,10,0,1,2,3,1,3,0
+125,Minette,Alchin,malchin3g@census.gov,19/11/2023,Patagonia,32,312.74,34.74888888888889,0,9,4,5,0,2,3,3,1
+126,Glory,Hedling,ghedling3h@dagondesign.com,20/07/2023,Cuyo,19,194.24999999999997,32.37499999999999,0,6,0,3,0,2,1,0,0
+127,Jarrod,Askham,jaskham3i@lulu.com,13/10/2023,Buenos Aires,19,314.99,52.498333333333335,0,6,0,2,1,0,1,2,1
+128,Becka,Grinval,bgrinval3j@vkontakte.ru,02/12/2023,Buenos Aires,24,271.77,30.196666666666665,0,9,0,0,0,3,1,5,0
+129,Colby,Kalderon,ckalderon3k@earthlink.net,19/03/2023,Patagonia,13,212.34000000000003,70.78000000000002,0,3,0,1,0,1,0,1,1
+130,Lori,Oram,loram3l@narod.ru,08/09/2023,Buenos Aires,43,548.27,45.689166666666665,0,12,1,1,2,3,2,5,2
+131,Corby,Lothlorien,clothlorien3m@nhs.uk,08/07/2023,Buenos Aires,21,292.36,58.472,0,5,1,0,0,1,3,2,1
+132,Cassie,Corish,ccorish3n@virginia.edu,14/12/2023,Buenos Aires,32,325.52,40.69,0,8,4,1,4,1,3,3,1
+133,Peggi,Sainsbury-Brown,psainsburybrown3o@amazon.co.uk,16/07/2023,Buenos Aires,10,122.3,40.766666666666666,0,3,6,2,1,1,5,0,0
+134,Zora,Halvosen,zhalvosen3p@acquirethisname.com,03/08/2023,Cuyo,37,409.9,37.26363636363636,0,11,2,2,0,5,5,1,2
+135,Burgess,Hawken,bhawken3q@patch.com,15/11/2023,Cuyo,16,182.4,45.6,0,4,0,1,0,1,2,0,1
+136,Silvana,Jellard,sjellard3r@blogspot.com,31/03/2023,Patagonia,24,230.44,32.92,0,7,0,0,1,0,5,1,0
+137,Danica,McKerron,dmckerron3s@illinois.edu,01/10/2023,Patagonia,12,91.02,22.755,0,4,2,0,2,2,1,1,0
+138,Osborn,Pogue,opogue3t@51.la,09/04/2023,Buenos Aires,20,101.16,20.232,0,5,3,2,1,3,2,0,0
+139,Pamella,Asker,pasker3u@chron.com,09/05/2023,Buenos Aires,16,176.12,25.16,0,7,1,2,0,0,2,4,0
+140,Estrella,Hoggins,ehoggins3v@homestead.com,10/10/2023,NEA,27,235.63,29.45375,0,8,0,3,2,2,1,0,0
+141,Adena,Skirvane,askirvane3w@shareasale.com,22/03/2023,NEA,36,294.29,32.69888888888889,0,9,3,2,0,2,5,3,1
+142,Lisette,Salle,lsalle3x@geocities.com,08/05/2023,Cuyo,30,209.4,29.914285714285715,0,7,0,0,2,1,2,2,0
+143,Gabriell,Ralton,gralton3y@wsj.com,14/11/2023,Buenos Aires,20,233.69,38.94833333333333,0,6,1,2,1,1,2,1,1
+144,Maribeth,Hearon,mhearon3z@who.int,16/06/2023,NEA,27,217.5,21.75,0,10,1,3,2,3,1,2,0
+145,Eugenius,Bowness,ebowness40@imgur.com,08/04/2023,Buenos Aires,30,355.32,39.48,0,9,1,1,2,6,0,1,1
+146,Shea,Castanaga,scastanaga41@geocities.jp,04/11/2023,Cuyo,21,270.40999999999997,54.081999999999994,0,5,1,1,1,0,3,1,1
+147,Temp,Gerlts,tgerlts42@mtv.com,14/11/2023,Cuyo,21,83.43,16.686,0,5,1,0,0,2,2,2,0
+148,Nadeen,Du Pre,ndupre43@goo.gl,19/03/2023,Centro,39,347.02,28.918333333333333,0,12,2,0,2,3,5,4,2
+149,Joell,Abbey,jabbey44@ucoz.com,16/11/2023,Cuyo,15,71.63,14.325999999999999,0,5,1,1,1,1,2,1,0
+150,Eben,Riche,eriche45@icq.com,03/06/2023,Buenos Aires,34,273.32,34.165,0,8,0,1,1,1,2,3,1
+151,Lance,Dungey,ldungey46@comcast.net,25/08/2023,Buenos Aires,48,504.7,33.64666666666667,0,15,1,4,1,3,5,3,2
+152,Lora,Mantione,lmantione47@wikispaces.com,27/08/2023,NOA,53,580.49,41.46357142857143,0,14,1,3,0,1,6,5,2
+153,Merola,Sketcher,msketcher48@dropbox.com,29/09/2023,Cuyo,27,222.51999999999998,24.724444444444444,0,9,2,2,1,1,6,1,0
+154,Abagail,Wetherby,awetherby49@free.fr,04/10/2023,Patagonia,9,42.29,14.096666666666666,0,3,2,0,0,1,0,4,0
+155,Sadie,Linwood,slinwood4a@miibeian.gov.cn,18/12/2023,Cuyo,26,226.38,32.339999999999996,0,7,1,1,0,1,5,1,0
+156,Giulia,Rudinger,grudinger4b@alibaba.com,26/10/2023,Patagonia,19,216.07999999999998,43.215999999999994,0,5,3,2,0,0,3,3,1
+157,Lammond,McCaskill,lmccaskill4c@sciencedirect.com,22/05/2023,Patagonia,20,221.43,27.67875,0,8,2,4,0,4,0,2,0
+158,Art,Van der Velde,avandervelde4d@infoseek.co.jp,02/05/2023,Buenos Aires,28,302.35,33.59444444444445,0,9,1,1,0,2,3,4,1
+159,Cyril,Pischel,cpischel4e@comsenz.com,11/04/2023,NEA,37,565.8299999999999,51.4390909090909,0,11,2,2,1,4,4,2,2
+160,Tedmund,Etheridge,tetheridge4f@flavors.me,06/12/2023,Centro,21,261.72,52.34400000000001,0,5,1,0,0,2,1,3,1
+161,Effie,Schrinel,eschrinel4g@elegantthemes.com,10/11/2023,Patagonia,25,225.71,28.21375,0,8,0,2,2,1,2,1,0
+162,Libbie,Faircliffe,lfaircliffe4h@addtoany.com,23/10/2023,Patagonia,35,233.53,19.460833333333333,0,12,1,4,0,3,2,4,0
+163,Bryanty,Smurfitt,bsmurfitt4i@bing.com,01/07/2023,Buenos Aires,14,209.1,41.82,0,5,1,1,0,2,2,1,0
+164,Tybie,Kemster,tkemster4j@sfgate.com,11/12/2023,Centro,27,401.07,50.13375,0,8,3,3,0,1,3,4,1
+165,Tricia,Gimert,tgimert4k@deviantart.com,21/05/2023,Buenos Aires,22,139.79,19.97,0,7,4,3,2,2,2,2,0
+166,Minta,Sickling,msickling4l@prlog.org,27/08/2023,NEA,26,253.54,42.25666666666667,0,6,3,2,0,4,2,1,1
+167,Audi,Kretchmer,akretchmer4m@mit.edu,25/10/2023,Buenos Aires,32,352.94,39.215555555555554,0,9,1,2,2,4,1,1,1
+168,Josephina,Humbee,jhumbee4n@cornell.edu,26/07/2023,Centro,49,406.24,29.017142857142858,0,14,0,2,3,4,2,3,2
+169,Carlyle,McWhirter,cmcwhirter4o@cyberchimps.com,19/03/2023,Centro,30,214.14000000000001,21.414,0,10,0,3,0,3,2,2,0
+170,Cchaddie,Dametti,cdametti4p@posterous.com,24/09/2023,Centro,24,355.90999999999997,44.488749999999996,0,8,1,3,3,0,3,0,1
+171,Vladimir,Orrill,vorrill4q@youku.com,03/04/2023,Cuyo,48,445.99,31.856428571428573,0,14,0,2,1,4,3,4,2
+172,Eulalie,Vedeshkin,evedeshkin4r@nytimes.com,19/03/2023,Buenos Aires,19,173.24,24.74857142857143,0,7,0,1,2,2,1,1,0
+173,Alisander,Raecroft,araecroft4s@mediafire.com,07/05/2023,Patagonia,15,184.88,46.22,0,4,2,0,0,2,2,2,1
+174,Darda,Tarr,dtarr4t@ca.gov,31/08/2023,Patagonia,31,345.63,38.403333333333336,0,9,1,5,0,1,2,2,1
+175,Caron,Raddon,craddon4u@seattletimes.com,14/09/2023,Buenos Aires,29,448.13000000000005,49.79222222222223,0,9,1,4,0,2,2,2,1
+176,Asa,Lamplugh,alamplugh4v@noaa.gov,24/09/2023,NEA,37,310.88,23.913846153846155,0,13,0,0,4,2,4,3,1
+177,Irvin,Normanville,inormanville4w@amazon.co.uk,25/08/2023,NEA,31,282.91,28.291000000000004,0,10,1,2,0,2,4,3,1
+178,Val,Damarell,vdamarell4x@google.nl,17/09/2023,Patagonia,9,146.43,29.286,0,5,0,0,1,0,1,3,0
+179,Constantina,Grimm,cgrimm4y@cbsnews.com,25/07/2023,Buenos Aires,36,409.55,51.19375,0,8,1,1,2,0,4,2,2
+180,Audra,Bleakley,ableakley4z@oakley.com,03/05/2023,Buenos Aires,36,294.1,24.508333333333336,0,12,2,2,1,5,4,2,1
+181,Isaak,Seyers,iseyers50@arizona.edu,16/08/2023,Patagonia,23,197.05,32.84166666666667,0,6,1,1,0,2,3,1,0
+182,Bel,Geeritz,bgeeritz51@noaa.gov,01/09/2023,Centro,20,134.03,26.806,0,5,1,3,1,0,0,2,0
+183,Bren,Szreter,bszreter52@youtube.com,25/05/2023,Patagonia,23,145.25,20.75,1,7,0,1,0,3,3,1,3
+184,Winne,Coaker,wcoaker53@seattletimes.com,23/11/2023,Buenos Aires,36,262.63,26.262999999999998,0,10,2,4,1,2,1,4,1
+185,Jody,Ianelli,jianelli54@networkadvertising.org,01/08/2023,Centro,45,330.74,22.049333333333333,0,15,2,4,1,3,4,5,2
+186,Gabie,Pawel,gpawel55@mit.edu,05/12/2023,Patagonia,18,181.9,22.7375,0,8,0,1,0,1,4,2,0
+187,Gay,Elvin,gelvin56@exblog.jp,27/11/2023,Buenos Aires,36,301.51,30.151,0,10,1,2,2,2,1,4,1
+188,Libbey,Carefull,lcarefull57@google.ca,09/04/2023,Cuyo,31,401.90000000000003,50.237500000000004,0,8,3,3,0,0,5,3,1
+189,Say,Stanistreet,sstanistreet58@google.de,18/07/2023,Patagonia,15,171.26,28.543333333333333,0,6,2,1,0,1,4,2,0
+190,Derwin,Fuzzard,dfuzzard59@mashable.com,21/03/2023,NEA,30,166.78,18.531111111111112,0,9,3,2,0,1,3,6,0
+191,Dominik,Alejandro,dalejandro5a@google.co.uk,14/12/2023,Centro,10,73.07000000000001,24.35666666666667,0,3,0,1,0,1,0,1,0
+192,Dyan,Marquis,dmarquis5b@vk.com,21/03/2023,Cuyo,34,609.78,67.75333333333333,0,9,1,2,0,3,3,2,2
+193,Harlan,Andrzej,handrzej5c@over-blog.com,16/11/2023,Buenos Aires,30,391.72,48.965,0,8,2,4,0,4,1,1,1
+194,Kendra,Emor,kemor5d@wp.com,20/10/2023,Buenos Aires,30,275.08,34.385,0,8,2,1,1,2,3,3,1
+195,Keene,Cayley,kcayley5e@opensource.org,18/10/2023,Centro,16,191.45,47.8625,0,4,0,1,1,0,1,1,1
+196,Arther,Meynell,ameynell5f@sun.com,02/06/2023,Cuyo,8,116.92999999999999,58.464999999999996,0,2,0,0,0,0,2,0,1
+197,Hermon,Forman,hforman5g@home.pl,15/11/2023,Cuyo,21,172.98,24.71142857142857,1,7,2,2,1,1,4,2,3
+198,Raviv,Winson,rwinson5h@omniture.com,07/09/2023,NOA,26,408.46000000000004,58.35142857142858,0,7,1,2,0,2,3,1,1
+199,Enrique,Grove,egrove5i@usnews.com,13/11/2023,Buenos Aires,15,172.26999999999998,34.45399999999999,1,5,0,0,0,2,2,2,3
+200,Cristobal,Gorick,cgorick5j@bluehost.com,08/09/2023,Centro,29,245.98,27.33111111111111,0,9,1,0,2,1,4,3,0
+201,Ros,Chrstine,rchrstine5k@soundcloud.com,04/12/2023,Patagonia,33,315.36,45.05142857142857,0,7,0,2,0,2,1,2,1
+202,Viola,Wyke,vwyke5l@apache.org,10/11/2023,NEA,27,257.84999999999997,36.83571428571428,0,7,0,3,0,0,3,1,1
+203,Rafaellle,Jayes,rjayes5m@ameblo.jp,02/10/2023,Buenos Aires,31,189.9,21.1,0,9,2,1,1,1,4,4,0
+204,Di,Kasper,dkasper5n@symantec.com,06/06/2023,Patagonia,22,242.49,34.64142857142857,0,7,0,1,1,0,3,2,1
+205,Brenda,Utterson,butterson5o@webeden.co.uk,29/04/2023,Patagonia,32,300.68,33.40888888888889,0,9,4,1,1,3,2,6,1
+206,Madeleine,Toretta,mtoretta5p@abc.net.au,10/05/2023,NEA,15,159.01999999999998,31.803999999999995,0,5,2,1,1,0,3,2,0
+207,Gussi,Paslow,gpaslow5q@europa.eu,17/06/2023,Buenos Aires,22,227.03,22.703,0,10,1,0,2,3,4,2,0
+208,Frederique,Bartholomaus,fbartholomaus5r@vkontakte.ru,21/04/2023,Buenos Aires,17,184.76999999999998,36.95399999999999,0,5,2,0,0,2,2,3,0
+209,Burr,Jiricka,bjiricka5s@icq.com,25/10/2023,Buenos Aires,44,456.1,38.00833333333333,0,12,0,1,2,3,1,5,2
+210,Hendrika,Smylie,hsmylie5t@sbwire.com,16/12/2023,Centro,28,280.15,40.021428571428565,0,7,2,2,0,0,4,3,1
+211,Lilli,Hayers,lhayers5u@alibaba.com,08/09/2023,Centro,23,168.91,24.13,0,7,2,3,0,2,1,3,0
+212,Justin,Featherstonehaugh,jfeatherstonehaugh5v@e-recht24.de,13/10/2023,Buenos Aires,37,419.06,46.562222222222225,0,9,0,3,2,1,2,1,2
+213,Cornelia,Alberti,calberti5w@ibm.com,28/11/2023,Centro,32,362.2,40.24444444444444,0,9,2,2,2,1,2,4,1
+214,Pippy,Pirot,ppirot5x@t-online.de,04/05/2023,Patagonia,41,417.89,41.789,0,10,2,2,0,2,3,5,2
+215,Addison,Trask,atrask5y@goo.ne.jp,10/08/2023,NEA,31,190.57999999999998,23.822499999999998,0,8,0,2,0,4,2,0,0
+216,Tandie,Arrowsmith,tarrowsmith5z@arizona.edu,11/11/2023,Centro,18,180.81,36.162,0,5,3,0,1,3,2,2,0
+217,Derrick,Giraldo,dgiraldo60@cdbaby.com,08/09/2023,Centro,18,135.71,22.618333333333336,0,6,1,3,1,0,2,1,0
+218,Ingeborg,Downey,idowney61@hexun.com,23/10/2023,Centro,31,425.85999999999996,47.31777777777777,0,9,1,0,0,3,3,4,1
+219,Obediah,Clineck,oclineck62@accuweather.com,27/04/2023,Patagonia,30,344.64,38.29333333333333,0,9,1,2,1,4,2,1,1
+220,Ilyssa,Camus,icamus63@cnn.com,29/05/2023,Centro,21,175.26,29.209999999999997,0,6,0,1,1,0,3,1,0
+221,Hildagarde,Mouton,hmouton64@indiatimes.com,09/06/2023,Buenos Aires,23,223.36,31.90857142857143,0,7,1,1,0,0,3,4,0
+222,Connor,Simoneton,csimoneton65@adobe.com,09/09/2023,Centro,35,314.77,26.230833333333333,0,12,1,2,0,3,4,4,1
+223,Lenette,Muldoon,lmuldoon66@mozilla.com,10/08/2023,Buenos Aires,27,290.25,41.464285714285715,0,7,1,1,1,2,1,3,1
+224,Katey,Gritland,kgritland67@odnoklassniki.ru,25/09/2023,Cuyo,40,430.01,43.001,0,10,2,3,1,1,2,5,2
+225,Charlton,Amphlett,camphlett68@dailymotion.com,13/11/2023,Buenos Aires,33,322.40999999999997,40.301249999999996,0,8,1,2,2,0,2,3,1
+226,Jerry,Beiderbecke,jbeiderbecke69@arizona.edu,26/11/2023,Patagonia,24,238.37,39.72833333333333,0,6,1,0,1,2,2,2,1
+227,Falkner,Heggs,fheggs6a@buzzfeed.com,31/05/2023,Buenos Aires,5,16.25,8.125,0,2,2,1,0,1,1,1,0
+228,Griff,Kearey,gkearey6b@ebay.co.uk,28/12/2023,Centro,26,313.4,44.771428571428565,0,7,0,1,2,1,1,2,1
+229,Angy,Quiney,aquiney6c@state.gov,12/11/2023,Cuyo,25,202.06,28.865714285714287,0,7,1,1,1,1,4,1,0
+230,Alvira,Gimber,agimber6d@ning.com,28/12/2023,Centro,33,399.2,49.9,0,8,3,2,2,1,3,3,1
+231,Rani,Chattelaine,rchattelaine6e@list-manage.com,13/12/2023,Patagonia,30,243.46,30.4325,0,8,2,1,1,0,3,5,1
+232,Truda,Staddon,tstaddon6f@ox.ac.uk,20/06/2023,Buenos Aires,19,242.93,34.70428571428572,0,7,1,3,1,3,1,0,0
+233,Stefania,Jephson,sjephson6g@jigsy.com,18/11/2023,Centro,39,318.81,26.5675,0,12,2,4,1,1,7,1,1
+234,Christopher,Bootland,cbootland6h@usnews.com,30/09/2023,Buenos Aires,45,424.59,32.660769230769226,0,13,2,3,1,3,5,3,2
+235,Cloe,Brun,cbrun6i@theglobeandmail.com,11/12/2023,NEA,21,220.74,31.534285714285716,0,7,2,0,0,2,4,3,0
+236,Ignacio,Klimashevich,iklimashevich6j@xinhuanet.com,21/09/2023,Buenos Aires,18,148.89000000000001,29.778000000000002,0,5,0,1,2,0,1,1,0
+237,Nikki,Dalgetty,ndalgetty6k@berkeley.edu,10/05/2023,Buenos Aires,50,576.37,52.39727272727273,0,11,1,4,1,1,3,3,2
+238,Kaine,Jasper,kjasper6l@drupal.org,26/09/2023,Buenos Aires,25,235.17000000000002,33.59571428571429,0,7,0,1,1,2,0,3,1
+239,Herbie,Puttick,hputtick6m@hc360.com,01/04/2023,Buenos Aires,22,255.57999999999998,36.51142857142857,0,7,0,3,1,0,1,2,1
+240,Lara,Skedgell,lskedgell6n@deviantart.com,04/11/2023,Buenos Aires,19,179.07,35.814,0,5,2,0,4,2,1,0,0
+241,Jeremiah,Cosgrave,jcosgrave6o@ning.com,11/06/2023,Buenos Aires,36,370.54999999999995,41.17222222222222,1,9,0,1,1,5,2,1,3
+242,Eben,Hellens,ehellens6p@moonfruit.com,12/09/2023,NEA,41,483.35,53.705555555555556,1,9,3,3,1,3,3,3,2
+243,Gerta,Shervington,gshervington6q@hao123.com,15/05/2023,Buenos Aires,14,81.37,27.123333333333335,0,3,2,2,0,0,3,0,0
+244,Francesca,Barter,fbarter6r@fc2.com,09/10/2023,Buenos Aires,11,130.63,26.125999999999998,0,5,0,1,0,0,1,3,0
+245,Ortensia,Ruppeli,oruppeli6s@paypal.com,04/07/2023,NEA,29,230.72,19.226666666666667,0,12,1,1,3,0,4,5,0
+246,Almira,Zottoli,azottoli6t@prweb.com,28/09/2023,NEA,18,186.0,26.571428571428573,0,7,1,1,1,2,1,3,0
+247,Silvio,Butterfield,sbutterfield6u@seattletimes.com,19/07/2023,Buenos Aires,31,281.09,28.108999999999998,0,10,1,7,0,0,4,0,1
+248,Benito,Craythorne,bcraythorne6v@bloomberg.com,03/07/2023,Centro,43,432.52,39.32,0,11,1,2,0,5,2,3,2
+249,Dilly,Gaveltone,dgaveltone6w@oracle.com,02/08/2023,Buenos Aires,22,223.85,37.30833333333333,0,6,3,2,0,1,2,4,1
+250,Stacy,Scading,sscading6x@google.co.jp,22/08/2023,Centro,29,317.86,35.31777777777778,1,9,4,2,0,2,4,6,1
+251,Cristian,Micka,cmicka6y@paginegialle.it,28/04/2023,Centro,11,126.69999999999999,42.23333333333333,0,3,4,1,1,0,2,3,0
+252,Emmalynne,Chew,echew6z@smh.com.au,01/11/2023,Patagonia,45,409.71999999999997,34.14333333333333,0,12,0,2,0,2,4,4,2
+253,Alastair,Scedall,ascedall70@purevolume.com,01/05/2023,Buenos Aires,15,126.66,42.22,1,3,0,1,0,0,0,3,3
+254,Dunc,Battersby,dbattersby71@salon.com,10/11/2023,Patagonia,12,100.44999999999999,20.089999999999996,0,5,2,3,0,2,0,2,0
+255,Merry,Zoren,mzoren72@webeden.co.uk,12/12/2023,Buenos Aires,25,139.19,19.884285714285713,0,7,5,2,1,2,2,5,0
+256,Felita,Duny,fduny73@narod.ru,17/12/2023,Buenos Aires,15,275.64,91.88,0,3,1,1,0,0,1,2,1
+257,Amalie,Persitt,apersitt74@paypal.com,15/10/2023,NEA,28,208.35,26.04375,0,8,1,1,1,3,2,2,0
+258,Izabel,Starten,istarten75@pen.io,28/05/2023,Centro,34,333.65999999999997,37.07333333333333,0,9,1,2,1,3,3,1,1
+259,Nobe,Van Hault,nvanhault76@dion.ne.jp,15/10/2023,Cuyo,16,126.11999999999999,31.529999999999998,0,4,3,2,2,2,0,1,0
+260,Cyrille,Mulligan,cmulligan77@gravatar.com,26/07/2023,Buenos Aires,23,271.14,33.8925,0,8,2,1,2,0,5,2,1
+261,Carlita,McArdell,cmcardell78@gmpg.org,24/12/2023,NOA,24,220.69,31.527142857142856,0,7,1,1,1,3,3,0,0
+262,Cairistiona,Trevan,ctrevan79@xrea.com,21/04/2023,Buenos Aires,17,191.32999999999998,47.832499999999996,0,4,4,1,2,0,3,2,1
+263,Onfre,Burdekin,oburdekin7a@wordpress.org,29/03/2023,Buenos Aires,17,169.65,28.275000000000002,0,6,0,1,0,1,2,2,0
+264,Vivien,Demeza,vdemeza7b@addtoany.com,19/04/2023,Buenos Aires,25,354.91999999999996,35.492,0,10,2,2,0,3,1,6,1
+265,Valeria,Tyres,vtyres7c@ebay.co.uk,12/06/2023,Centro,15,242.0,48.4,0,5,2,1,1,0,3,2,1
+266,Tabbie,Hintzer,thintzer7d@canalblog.com,28/10/2023,Buenos Aires,44,463.0,35.61538461538461,0,13,1,4,1,1,2,6,2
+267,Marielle,Mickelwright,mmickelwright7e@behance.net,05/11/2023,Centro,8,57.910000000000004,14.477500000000001,0,4,0,0,0,1,2,1,0
+268,Thom,Gantzer,tgantzer7f@state.gov,07/05/2023,NOA,35,325.11,36.123333333333335,0,9,0,4,0,0,4,1,1
+269,Merill,Gogin,mgogin7g@whitehouse.gov,15/09/2023,Centro,14,111.46000000000001,18.576666666666668,0,6,1,1,0,2,2,2,0
+270,Davide,Dukes,ddukes7h@slideshare.net,12/11/2023,Cuyo,12,159.28,53.093333333333334,0,3,1,0,1,1,2,0,1
+271,Lotta,Matteacci,lmatteacci7i@tripod.com,17/10/2023,Patagonia,41,313.6,31.360000000000003,0,10,1,1,1,2,5,2,2
+272,Nikki,Phillipson,nphillipson7j@fema.gov,10/11/2023,Buenos Aires,36,399.49,44.38777777777778,0,9,2,3,0,2,2,4,2
+273,Miller,Cazereau,mcazereau7k@squarespace.com,16/07/2023,Cuyo,30,251.12,35.87428571428571,0,7,3,3,0,2,3,2,1
+274,Darby,Gerasch,dgerasch7l@usatoday.com,08/07/2023,Buenos Aires,31,294.65,32.73888888888889,0,9,1,1,2,3,2,2,1
+275,Perrine,Enstone,penstone7m@nationalgeographic.com,14/04/2023,Buenos Aires,27,434.91,54.36375,0,8,1,2,1,1,4,1,1
+276,Bel,McQueen,bmcqueen7n@goo.ne.jp,30/03/2023,Patagonia,20,371.13,92.7825,1,4,2,1,0,2,0,4,3
+277,Pippy,Hearne,phearne7o@goo.ne.jp,18/07/2023,Patagonia,22,218.99,43.798,0,5,3,0,0,2,4,2,1
+278,Rouvin,Ohrt,rohrt7p@devhub.com,21/08/2023,Centro,48,403.12,31.00923076923077,0,13,1,4,1,0,6,3,2
+279,Benito,Weall,bweall7q@marriott.com,29/11/2023,Centro,19,184.7,26.385714285714283,0,7,3,2,2,1,1,4,0
+280,Keriann,Doore,kdoore7r@hibu.com,11/12/2023,Centro,22,239.16,29.895,0,8,1,1,2,1,2,3,0
+281,Issie,Hendonson,ihendonson7s@google.de,02/04/2023,Buenos Aires,28,237.2,29.65,0,8,0,1,1,1,2,3,0
+282,Lowrance,Coward,lcoward7t@telegraph.co.uk,10/06/2023,Centro,26,300.71,42.958571428571425,0,7,0,1,1,1,3,1,1
+283,Lincoln,Kennermann,lkennermann7u@barnesandnoble.com,03/05/2023,Buenos Aires,37,354.08,32.18909090909091,0,11,3,0,0,5,5,4,1
+284,Vanna,Milliken,vmilliken7v@redcross.org,15/07/2023,NOA,22,211.59,35.265,0,6,1,1,0,1,4,1,0
+285,Red,Cutmare,rcutmare7w@woothemes.com,12/08/2023,Patagonia,21,174.18,34.836,0,5,3,2,1,1,3,1,0
+286,Mikael,Freckingham,mfreckingham7x@wordpress.com,07/10/2023,Centro,26,262.25,32.78125,0,8,3,4,1,1,2,3,1
+287,Son,Klesse,sklesse7y@sohu.com,13/11/2023,NEA,24,188.32,23.54,0,8,2,2,0,3,3,2,0
+288,Leoline,Hessel,lhessel7z@umn.edu,26/10/2023,Buenos Aires,28,246.03,22.366363636363637,0,11,3,3,4,2,3,2,0
+289,Fran,McCullen,fmccullen80@myspace.com,28/11/2023,Cuyo,26,268.33,33.54125,0,8,0,3,0,2,1,2,1
+290,Melinda,Water,mwater81@huffingtonpost.com,20/09/2023,Buenos Aires,23,243.51999999999998,34.78857142857142,0,7,1,3,2,1,1,1,1
+291,Kean,Devoy,kdevoy82@sphinn.com,05/11/2023,NEA,26,229.57,38.26166666666666,0,6,0,2,0,0,2,2,1
+292,Larisa,Eustace,leustace83@shutterfly.com,26/05/2023,Patagonia,26,257.21999999999997,36.74571428571428,0,7,3,3,1,0,1,5,1
+293,Sebastian,Portman,sportman84@dmoz.org,09/07/2023,Patagonia,19,213.49,53.3725,0,4,0,1,0,0,2,1,1
+294,Alon,Gorch,agorch85@nifty.com,27/12/2023,Centro,13,142.45000000000002,28.490000000000002,0,5,1,0,0,0,5,1,0
+295,Denise,Domsalla,ddomsalla86@nih.gov,02/10/2023,Cuyo,26,276.37,46.06166666666667,0,6,1,0,2,2,1,2,1
+296,Christean,Branigan,cbranigan87@dmoz.org,28/07/2023,Buenos Aires,18,174.62,29.103333333333335,0,6,1,1,0,0,4,2,0
+297,Hadleigh,McGilben,hmcgilben88@typepad.com,20/09/2023,Buenos Aires,8,97.15,24.2875,0,4,3,0,0,2,2,3,0
+298,Osborne,Bruton,obruton89@oracle.com,24/07/2023,Buenos Aires,25,252.77,36.11,0,7,1,2,1,2,2,1,1
+299,Simone,Tonkes,stonkes8a@exblog.jp,31/10/2023,Cuyo,44,351.39,35.138999999999996,0,10,0,3,1,2,3,1,2
+300,Marilin,Lodin,mlodin8b@shop-pro.jp,25/08/2023,NEA,16,149.86,29.972,0,5,0,1,0,0,3,1,0
+301,Nannie,Toseland,ntoseland8c@typepad.com,31/10/2023,Cuyo,22,167.71,20.96375,0,8,1,1,0,2,5,1,0
+302,Ferris,Duggan,fduggan8d@ebay.co.uk,24/07/2023,Patagonia,23,225.13,32.16142857142857,0,7,2,5,0,2,1,1,0
+303,Sorcha,Leaver,sleaver8e@tripod.com,08/05/2023,Centro,35,393.44,49.18,0,8,1,2,1,2,1,3,2
+304,Arch,Jurasz,ajurasz8f@e-recht24.de,30/04/2023,Cuyo,28,238.4,39.733333333333334,0,6,2,2,0,1,4,1,1
+305,Karyn,Foucard,kfoucard8g@furl.net,04/05/2023,Patagonia,25,317.96000000000004,52.99333333333334,0,6,0,0,1,0,2,3,1
+306,Donna,Zamora,dzamora8h@mit.edu,11/06/2023,Cuyo,25,308.06,38.5075,0,8,0,0,3,1,3,1,1
+307,Shelba,Elcombe,selcombe8i@ustream.tv,01/04/2023,Cuyo,66,522.26,29.014444444444443,0,18,1,3,4,4,4,4,2
+308,Robin,Shelp,rshelp8j@ebay.co.uk,06/11/2023,Centro,25,339.21,48.458571428571425,0,7,3,2,1,1,2,4,1
+309,Aggy,Warman,awarman8k@prnewswire.com,31/08/2023,Centro,25,190.97,31.828333333333333,0,6,0,1,1,0,2,2,0
+310,Kenyon,Grain,kgrain8l@t.co,09/11/2023,Patagonia,18,131.9,21.983333333333334,0,6,1,1,0,2,2,2,0
+311,Sebastien,Tunesi,stunesi8m@ox.ac.uk,26/12/2023,Buenos Aires,50,526.05,40.465384615384615,0,13,1,1,1,5,4,3,2
+312,Gabie,Late,glate8n@walmart.com,03/08/2023,Cuyo,24,278.45,46.40833333333333,0,6,1,1,2,2,0,2,1
+313,Jeralee,Mccaull,jmccaull8o@uol.com.br,14/07/2023,Cuyo,40,407.58000000000004,37.052727272727275,0,11,5,4,1,1,4,6,2
+314,Abelard,Bassett,abassett8p@google.fr,10/04/2023,Patagonia,17,99.45,16.575,0,6,6,3,2,3,2,2,0
+315,Anastasia,Craighill,acraighill8q@hhs.gov,18/06/2023,Buenos Aires,23,203.15,33.858333333333334,0,6,1,0,2,1,1,3,0
+316,Glyn,Hourston,ghourston8r@umich.edu,13/10/2023,Centro,44,381.55,27.25357142857143,0,14,2,3,0,4,5,4,2
+317,Ricard,Dupoy,rdupoy8s@domainmarket.com,01/06/2023,NEA,25,156.78,19.5975,0,8,0,4,1,0,2,1,0
+318,Gustave,Chatainier,gchatainier8t@house.gov,31/03/2023,Buenos Aires,22,251.51999999999998,31.439999999999998,0,8,2,3,0,0,3,4,0
+319,Byrle,Crinidge,bcrinidge8u@live.com,10/05/2023,Patagonia,12,169.99,33.998000000000005,0,5,4,2,0,1,3,3,0
+320,Aubert,Caddie,acaddie8v@reference.com,08/11/2023,Centro,18,145.56,29.112000000000002,0,5,2,0,0,3,4,0,0
+321,Bent,Auld,bauld8w@odnoklassniki.ru,27/10/2023,Cuyo,37,398.13,36.193636363636365,0,11,1,5,0,0,4,3,2
+322,Hugh,Ortelt,hortelt8x@google.com.hk,19/11/2023,NEA,14,70.6,23.53333333333333,0,3,1,0,0,2,2,0,0
+323,Issiah,Schoales,ischoales8y@twitter.com,21/11/2023,Centro,28,231.98000000000002,25.775555555555556,0,9,1,1,1,1,2,5,0
+324,Nalani,Steggals,nsteggals8z@nhs.uk,01/09/2023,NEA,19,179.48,29.91333333333333,0,6,1,2,1,1,2,1,0
+325,Rowland,Riddington,rriddington90@friendfeed.com,16/06/2023,NEA,40,314.16,26.180000000000003,0,12,0,2,1,3,4,2,1
+326,Friedrick,Paulucci,fpaulucci91@arstechnica.com,21/06/2023,Cuyo,30,235.01,29.37625,0,8,5,3,1,4,1,4,0
