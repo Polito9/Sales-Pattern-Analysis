@@ -17,7 +17,7 @@ All required packages are listed in requirements.txt, it is recommended to insta
 pip install -r requirements.txt
 ```
 
-Now you can run the file main.ipynb
+Now you can run all notebooks
 
 
 ## Updating Dependencies (for contributors)
