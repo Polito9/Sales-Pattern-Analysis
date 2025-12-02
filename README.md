@@ -17,7 +17,7 @@ All required packages are listed in requirements.txt, it is recommended to insta
 pip install -r requirements.txt
 ```
 
-Now you can run all notebooks
+Now you can run all notebooks without problems
 
 
 ## Updating Dependencies (for contributors)
